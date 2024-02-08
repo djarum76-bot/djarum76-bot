@@ -1,7 +1,14 @@
 ### Hi! 👋 I'm Habil.
 
-Passionate undergraduate in software engineering, specializing in mobile and back-end development. Proficient in Flutter and able to use Kotlin Compose for creating engaging mobile apps. Skilled in building robust REST APIs using Go. Embraces agile methodologies for efficient project delivery. Expert problem solver with a knack for diagnosing and resolving complex issues. Eager to collaborate with fellow professionals to drive technological innovation and create impactful software products.
+Enthusiastic undergraduate specializing in mobile and back-end development, currently in the final semester of Informatics Engineering at the Electronic Engineering Polytechnic Institute of Surabaya. Proficient in Flutter, Kotlin, and Swift, with experience in building REST APIs using Go. Embraces agile methodologies for efficient project delivery. Adept problem solver committed to staying updated on the latest trends in mobile development. Eager to collaborate and contribute to impactful software projects.
+
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/djarum76-bot">
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=djarum76-bot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=djarum76-bot&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/habil-%E2%80%8E-5a4b0615a/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/habil0105">LinkedIn</a>
 - habil0105@gmail.com
