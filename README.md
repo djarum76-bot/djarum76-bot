@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Habil.
 
-Enthusiastic undergraduate specializing in mobile and back-end development, currently in the final semester of Informatics Engineering at the Electronic Engineering Polytechnic Institute of Surabaya. Proficient in Flutter, Kotlin, and Swift, with experience in building REST APIs using Go. Embraces agile methodologies for efficient project delivery. Adept problem solver committed to staying updated on the latest trends in mobile development. Eager to collaborate and contribute to impactful software projects.
+Enthusiastic fresh graduate specializing in mobile and back-end development, with a degree in Informatics Engineering from the Electronic Engineering Polytechnic Institute of Surabaya. Proficient in Flutter, Kotlin, and Swift, with experience in building REST APIs using Go. Embraces agile methodologies for efficient project delivery. An adept problem solver committed to staying updated on the latest trends in mobile development. Eager to collaborate and contribute to impactful software projects.
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/djarum76-bot">
